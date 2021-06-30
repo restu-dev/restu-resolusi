@@ -1,5 +1,5 @@
 Resolusi Restu Tahun 2021
-1. Menikah
-2. Hijrah pindah kerja
+
 3. Meguasai Laravel
 4. Meguasai EasyUi js
+5. Meguasai Nginx
