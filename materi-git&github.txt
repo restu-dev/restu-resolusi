@@ -3,3 +3,5 @@ Detail materi Git & GitHub
 2. Megenal istilah/ jargon 
 3. Membuat akun GitHub
 4. Membuat Repo/repository pada GitHub
+5. Belajar branch
+7. belajar merg
